@@ -22,7 +22,8 @@ If Python is not installed or you need to upgrade, visit [python.org/downloads](
 
 1. Clone this repository or download the files.
 2. Open the repository in your preferred Python IDE. The creator recommends using Visual Studio Code (VSCode).
-3. To run the program, execute the `WebcamFaceDetect.py` script.
+3. To run the program, execute the `WebcamFaceDetect.py` script, for some reason in vscode, you have to right click and
+press "run code" at the top (windows), or right click and go all the way down and press "Run python" then "Run python file in terminal" (MacOS)
 4. To close the program, press the "d" key.
 
 ## Notes
