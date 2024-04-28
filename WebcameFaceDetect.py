@@ -1,7 +1,7 @@
 import cv2 as cv
 import time
 
-haar_cascade = cv.CascadeClassifier("C:\Programming\OpenCV\haar_face.xml")
+haar_cascade = cv.CascadeClassifier("haar_face.xml")
 
 capture = cv.VideoCapture(0)
 
